@@ -1,0 +1,21 @@
+{
+    "Owner":"1234567890",
+    "member":["1234567890"],
+    "guild":"25683425634256341",
+    "joincode":"582963454826",
+    "enable":true,
+    "playing":false,
+    "setting": [{
+        "healself": true,
+        "deadroleopen": true,
+        "addundertaker": false,
+        "mafiacanseeeach": true,
+        "policecanseeeach": true,
+        "doctercanseeeach": true,
+        "undertakercanseeeach": true,
+        "docter": 1,
+        "police": 2,
+        "mafia": 2,
+        "undertaker": -1
+    }]
+}

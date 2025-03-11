@@ -1,0 +1,10 @@
+{
+    "rooms": [],
+    "setting": [{
+        "makethread": true,
+        "startmention": false,
+        "startmentionroleis": null,
+        "dashboard": true,
+        "setlocalrule":true
+    }]
+}

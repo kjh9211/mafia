@@ -1,0 +1,24 @@
+{
+    "day":0,
+    "time":"day",
+    "player_count":0,
+    "deadplayer_count": 0,
+    "players":[],
+    "deadplayers":[],
+    "mafia":[],
+    "docter":[],
+    "police":[],
+    "setting": [{
+        "healself": true,
+        "deadroleopen": true,
+        "addundertaker": false,
+        "mafiacanseeeach": true,
+        "policecanseeeach": true,
+        "doctercanseeeach": true,
+        "undertakercanseeeach": true,
+        "docter": 1,
+        "police": 2,
+        "mafia": 2,
+        "undertaker": -1
+    }]
+}
